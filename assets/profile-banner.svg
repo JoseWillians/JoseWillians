@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+<title id="title">José Willians — Código com propósito</title>
+<desc id="desc">Painel em tons escuros e verde, com uma janela de código e foco em web, automação e TI.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#19231e"/></linearGradient></defs>
+<rect width="1000" height="280" rx="16" fill="url(#bg)"/>
+<path d="M0 1H1000M0 279H1000" stroke="#303c32"/>
+<path d="M640 0V280M700 0V280M760 0V280M820 0V280M880 0V280M940 0V280M600 50H1000M600 110H1000M600 170H1000M600 230H1000" stroke="#c7f36b" stroke-opacity=".05"/>
+<rect x="36" y="34" width="49" height="38" rx="7" fill="#c7f36b"/>
+<text x="45" y="60" fill="#141b14" font-family="Arial,sans-serif" font-size="21" font-weight="800">JW.</text>
+<text x="101" y="58" fill="#aebbb1" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">DESENVOLVIMENTO · AUTOMAÇÃO · TI</text>
+<text x="36" y="134" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="-1.5">Código com</text>
+<text x="36" y="181" fill="#c7f36b" font-family="Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="-1.5">propósito.</text>
+<text x="38" y="230" fill="#bbc8bd" font-family="Arial,sans-serif" font-size="19">José Willians</text>
+<text x="198" y="230" fill="#7f9185" font-family="Arial,sans-serif" font-size="14">Ideias que viram projetos.</text>
+<rect x="593" y="47" width="369" height="188" rx="10" fill="#0d1117" stroke="#3c4d3f"/>
+<path d="M593 78H962" stroke="#29392d"/><circle cx="613" cy="63" r="3" fill="#7f9185"/><circle cx="625" cy="63" r="3" fill="#7f9185"/><circle cx="637" cy="63" r="3" fill="#c7f36b"/>
+<text x="690" y="68" fill="#819087" font-family="monospace" font-size="10">josewillians / construir.ts</text>
+<g font-family="monospace" font-size="13"><text x="613" y="107" fill="#c7f36b">const <tspan fill="#f0f6fc">projeto = {</tspan></text><text x="630" y="134" fill="#a8b8ae">  origem: <tspan fill="#e7d0a1">"uma necessidade",</tspan></text><text x="630" y="160" fill="#a8b8ae">  foco: <tspan fill="#e7d0a1">"quem vai usar",</tspan></text><text x="630" y="186" fill="#a8b8ae">  próximoPasso: <tspan fill="#e7d0a1">"construir"</tspan></text><text x="613" y="212" fill="#f0f6fc">};</text></g>
+</svg>
